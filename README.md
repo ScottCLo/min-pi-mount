@@ -1,4 +1,4 @@
-#min-pi-mount
+# min-pi-mount
 A minimal wall mount for Raspberry Pi 2+ created with Openscad.
 Mounting holes are sized for #8 hex head sheet metal screws.
 
